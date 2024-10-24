@@ -1,0 +1,1 @@
+Currency Converter Browser Extension
